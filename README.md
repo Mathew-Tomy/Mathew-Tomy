@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Static and Dynamic Websites**
 
-- 👨‍💻 All of my projects are available at [https://mathhewtomy.netlify.app/](https://mathhewtomy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mathhewtomy.netlify.app/](https://mathewtomy.netlify.app/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@mtomy1](https://hashnode.com/@mtomy1)
 
