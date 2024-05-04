@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewtomy" alt="mathewtomy" /></a> </p>
 
-- 🔭 I’m currently working Freelance Projects [Glitzy Studio](glitzystudio.ca)
+- 🔭 I’m currently working Freelance Projects 
 
 - 🌱 I’m currently learning **Jenkins,Kubernetes, Ansible , Kafka , Terraform (Fundamentals) , Helm, Shell Scripting, AWS (Fundamentals)**
 
