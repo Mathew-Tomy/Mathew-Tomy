@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jenkins,Kubernetes, Ansible , Kafka , Terraform (Fundamentals) , Helm, Shell Scripting, AWS (Fundamentals)**
 
-- 👯 I’m looking to collaborate on ** Full Stack in Php, Node js ,Devops, Cyber Security roles**
+- 👯 I’m looking to collaborate on ** Full Stack in Php, Node js **
 
 - 🤝 I’m looking for help with **Static and Dynamic Websites**
 
