@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathew Tomy</h1> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+<h1 align="center">Hi 👋, I'm Mathew Tomy</h1> 
 
 <h3 align="center">Passionate full-stack developer skilled in PHP, Node.js, Next.js, and React.js. Excited about leveraging emerging technologies to build innovative web applications. Deep interest in cloud computing, DevOps, and cybersecurity. Actively contributing to open-source projects and committed to continuous learning. Let's connect and shape a secure digital future together.</h3>
 
