@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathew Tomy</h1>  Fish To Home is your go-to app for ordering fresh fish delivered straight to your home in Ontario. We source only the finest, sustainably-caught seafood and offer a wide range of fish options from your local fisheries. With easy ordering, fast delivery, and transparent pricing, enjoy a hassle-free way to get fresh fish every time. Whether you're cooking a family dinner or a gourmet meal, Fish To Home ensures the freshest fish right at your door!"
+<h1 align="center">Hi 👋, I'm Mathew Tomy</h1>  
 
 <h3 align="center">Passionate full-stack developer skilled in PHP, Node.js, Next.js, and React.js. Excited about leveraging emerging technologies to build innovative web applications. Deep interest in cloud computing, DevOps, and cybersecurity. Actively contributing to open-source projects and committed to continuous learning. Let's connect and shape a secure digital future together.</h3>
 
